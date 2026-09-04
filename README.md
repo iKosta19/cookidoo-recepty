@@ -1,2 +1,2 @@
-# -cookidoo-recepty
+# cookidoo-recepty
 Conversion for Cookidoo app
